@@ -13,12 +13,12 @@ Ce vi permet de trouver un type de café correspondant à un critère (la taille
 
 - L'utilisateur choisi un des critères qu'il désire pour son café
 
-  Ex : s'il choisit un café à 4 d'insenté, le programme lui affiche tout les café de cette intensité ainsi que leur taille
+  Ex : s'il choisit un café à 4 d'insenté, le programme lui affiche tout les cafés de cette intensité ainsi que leur taille
   
   ![image](https://github.com/evaDACOSTA/Projects/assets/127400348/40cb096b-9006-4151-811f-6076fe012d39)
 
 
-Ex : s'il choisit un café de taille expresso, le programme lui affiche tout les café de cette taille ainsi que leur intensité
+Ex : s'il choisit un café de taille expresso, le programme lui affiche tout les cafés de cette taille ainsi que leur intensité
 
   ![image](https://github.com/evaDACOSTA/Projects/assets/127400348/6f35c812-a79d-44ea-8a46-4c58b2022084)
 
