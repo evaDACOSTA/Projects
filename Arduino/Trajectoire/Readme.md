@@ -113,7 +113,7 @@ void delais(float a)
 
 ##### Exemple de trajectoire
 
-https://github.com/L3-Option-TSI-2023/evaDACOSTA/assets/127400348/b184659c-c796-4c0a-a6b0-7b54ca292e99
+https://drive.google.com/file/d/1g6Tj05B2l1Lm2iAIBRYC_W4hm9Cdz_GU/view?usp=drive_link
 
 
 
